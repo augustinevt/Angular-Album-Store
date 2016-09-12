@@ -10,13 +10,10 @@ An app that aims to make the search for a good house or housemate as simple and 
 
 ## Setup/Installation Requirements
 
-* Go to [github](https://github.com/augustinevt/room_zen) and clone the repository
-
-## Please be sure that:
-* All gem dependencies are bundled
-* Postgresql is running
-* rake db:create, rake db:migrate and rake db:test:prepare are run before launching the server
-
+* clone repository
+* run npm install in project directory
+* run npm start
+* go to localhost: 8000
 
 ## Known Bugs
 
