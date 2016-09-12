@@ -4,9 +4,6 @@
 
 #### By August von Trapp
 
-## Description
-
-An app that aims to make the search for a good house or housemate as simple and stress free as possible.
 
 ## Setup/Installation Requirements
 
